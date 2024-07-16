@@ -1,0 +1,4 @@
+https://sevndata.com
+https://sevndata.com/2020/10/26/mysql-init
+https://www.sevndata.com
+curl -H 'Content-Type:text/plain' --data-binary @urls.txt "http://data.zz.baidu.com/urls?site=https://www.sevndata.com&token=Jaj2yYwXVNRxaIlz"
